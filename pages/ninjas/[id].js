@@ -28,7 +28,7 @@ const Details = ({ ninja }) => {
         <div>
             <h1>{ninja.name}</h1>
             <p>{ ninja.email }</p>
-            <p>{ ninja.wbsite }</p>
+            <p>{ ninja.website }</p>
             <p>{ ninja.address.city }</p>
 
         </div>
